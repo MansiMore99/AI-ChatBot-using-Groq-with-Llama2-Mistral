@@ -14,7 +14,7 @@ Sign up on the [Groq platform](https://console.groq.com/keys) to get your API ke
 
 Setup:
 
-1. Run the chatbot:
+How to Run the chatbot:
 
 ```
 streamlit run app.py
